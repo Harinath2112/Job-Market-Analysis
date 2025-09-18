@@ -27,7 +27,8 @@ You can interact with the live dashboard published on Tableau Public here:
 [Link to Tableau Public Dashboard](https://public.tableau.com/views/JobMarketAnalysis_17582245916530/Dashboard1)
 
 ## Project Snapshot
-![Dashboard Screenshot](./image.jpg)  
+![Dashboard Screenshot](Dashboard 1.png)
+
 *A quick glance at the project dashboard.*
 
 ## Contributing
