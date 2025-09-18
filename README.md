@@ -5,7 +5,6 @@ Exploring AI &amp; Data Science job market trends through interactive Tableau vi
 ## Project Overview
 This Tableau project analyzes the global AI and Data Science job market using real-world data. The interactive dashboard provides insights into job postings, role demand, salary comparisons, location-wise distribution, company hiring trends, and experience level requirements. It aims to help job seekers, recruiters, and data enthusiasts understand the dynamic trends in the tech job market.
 
-![Dashboard Screenshot](images/dashboard.jpg)
 
 ## Dashboard Features
 - **Area-wise Jobs:** Visualizes job distribution across major global cities, highlighting hotspots for AI and data science roles.
